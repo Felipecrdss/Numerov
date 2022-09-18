@@ -20,5 +20,4 @@ Autors: Francisco Caruso; Vitor oguri; Felipe Silveira (felipe-oak@gmail.com)
 
 
 This code is explained in more detail in an article published in the
-Brazilian Journal of Physics Teaching. As soon as it is published I 
-will add the download link here.
+Brazilian Journal of Physics Teaching. https://doi.org/10.1590/1806-9126-RBEF-2022-0098
